@@ -29,7 +29,24 @@ Analysing Video Games reviews in the US, we got the following results:
 
    ![top_votes](/top_votes.png)
 
-    - Helpful votes over total votes equal to or greater than 50%
+  - Helpful votes over total votes equal to or greater than 50%
+
+  ![helpful](/helpful.png)
+  
+  - Part of the Vine Program (paid)
+
+  ![paid](/paid.png)
+  
+  - Not part of the Vine program (unpaid)
+
+  ![unpaid](/unpaid.png)
+  
+- Result Output
+
+![VG_reviews](/VG_reviews.png)
+  
+  
+  
 
   
 
