@@ -11,9 +11,24 @@ Determine if there is any bias towards reviews that were written as part of the 
 ## Results
 Analysing Video Games reviews in the US, we got the following results:
 
-  - Total Qualified Reviews:
+  - Total Qualified* Reviews:
     - Vine:     102
     - non-Vine: 64,008
+
+  - Total 5 Stars Qualified* Reviews:
+    - Vine:     48
+    - non-Vine: 20,282
+
+  - Percentage of 5 Stars / Total:
+    - Vine:     47.06%
+    - non-Vine: 31.69%
+
+  *Qualified is defined as having total votes equal to or greater than 20 and helpful votes over total votes equal to or greater than 50%, as shown in the Dataframes below"
+  
+  
+
+  - Results 
+
 
   - Initial Page
   
