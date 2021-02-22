@@ -27,7 +27,7 @@ Analysing Video Games reviews in the US, we got the following results:
   
     - Total Voters equal to or greater than 20
 
-    ![top_votes](/top_votes.png)
+   ![top_votes](/top_votes.png)
 
     - Helpful votes over total votes equal to or greater than 50%
 
