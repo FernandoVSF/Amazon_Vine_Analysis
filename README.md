@@ -25,7 +25,7 @@ Analysing Video Games reviews in the US, we got the following results:
 
   *Qualified is defined as having total votes equal to or greater than 20 and helpful votes over total votes equal to or greater than 50%, as shown in the Dataframes below"
   
-    - Total Voters equal to or greater than 20
+  - Total Voters equal to or greater than 20
 
    ![top_votes](/top_votes.png)
 
