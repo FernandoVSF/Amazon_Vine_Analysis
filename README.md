@@ -45,38 +45,8 @@ Analysing Video Games reviews in the US, we got the following results:
 
 ![VG_reviews](/VG_reviews.png)
   
-  
-  
-
-  
-
-  - Initial Page
-  
-![initial](/initial.png)
-
-   - Filtering by Shape = light
-  
-![f1](/f1_shape.png)
-  
-   - Adding filter by State = ca
-  
-![f2](/f2_state.png)
-
-   - Adding filter by City = el cajon
-  
-![f3](/f3_city.png)
-
-   - Adding filter by Date = 1/1/2010
-  
-![f4](/f4_date.png)
- 
 ## Summary
 
-One drawback of this design is that it requires the user to scroll over the whole list to select the input for the search criteria.  Another one is not being possible to reset filters (although we can select a new criteria for the filter).
+Looking at the results, we can conclude that there is in fact a positivity bias for reviews in the Vine program (47.06% against 31.69% non-Vine reviews).  A possible reason is the fact that unpaid reviewers tend to be more critic, while participants tend to be more constructive.
 
-As a recomendation for further dvelopments, I suggest the following:
-
-  - Implementing combo boxes in the input fields, to show the possible selections and avoiding typos;
-  
-  - Implementing an option to reset filters, by "showing all" in the combo box suggested above.
-  
+One additional analysis that could be done with the dataset is using machine learnimg validate the rating against the written reviews, and get more insight from the these reviews.
