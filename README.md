@@ -9,7 +9,11 @@ Determine if there is any bias towards reviews that were written as part of the 
 - Software: PySpark, Pandas, PostgresSQL, pgAdmin4, Jupyter Notebook, VSCode
 
 ## Results
-This page provides fully functional filters, using multiple criteria, that allows user's interaction as shown in the example below:
+Analysing Video Games reviews in the US, we got the following results:
+
+  - Total Qualified Reviews:
+    - Vine:     102
+    - non-Vine: 64,008
 
   - Initial Page
   
